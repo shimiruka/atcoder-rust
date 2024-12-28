@@ -15,7 +15,6 @@
                     "--package=atcoder-rust"
                 ],
                 "filter": {
-                    "name": "a",
                     "kind": "bin"
                 }
             },
@@ -35,7 +34,6 @@
                     "--package=atcoder-rust"
                 ],
                 "filter": {
-                    "name": "a",
                     "kind": "bin"
                 }
             },
